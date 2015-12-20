@@ -1,6 +1,6 @@
 # Kemal Chat
 
-Sample application to demonstrate how easy it is to build realtime applications with Kemal using WebSocket.
+Sample application to demonstrate how easy it is to build realtime applications with [Kemal](https://github.com/sdogruyol/kemal) using WebSocket.
 
 ## Installation
 
