@@ -7,7 +7,7 @@ Sample application to demonstrate how easy it is to build realtime applications 
 ```
 git clone https://github.com/sdogruyol/kemal-chat
 cd kemal-chat && shards install
-crystal run src/chat_app.cr
+crystal run src/kemal_chat.cr
 ```
 
 ## Usage
