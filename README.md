@@ -14,6 +14,7 @@ crystal run src/kemal_chat.cr
 
 Go to `http://localhost:3000/` to see it in action.
 
+![Kemal Chat Gif](/images/kemal-chat.gif)
 
 ## Contributing
 
