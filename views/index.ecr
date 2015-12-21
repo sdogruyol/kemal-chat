@@ -16,6 +16,10 @@
           $('#msg').val(''); $('#msg').focus();
           e.preventDefault();
         });
+        window.onbeforeunload = function() {
+          websocket.onclose = function () {}; // disable onclose handler first
+          websocket.close()
+        };
       });
     </script>
   </head>
