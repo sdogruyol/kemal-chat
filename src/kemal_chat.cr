@@ -1,6 +1,6 @@
 require "kemal"
 
-SOCKETS = [] of HTTP::WebSocketHandler::WebSocketSession
+SOCKETS = [] of HTTP::WebSocket
 
 get "/" do
   render "views/index.ecr"

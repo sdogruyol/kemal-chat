@@ -1,6 +1,0 @@
-version: 1.0
-shards:
-  kemal:
-    github: sdogruyol/kemal
-    commit: d50d305e996d3e654baea167b6c7295a91d7c5ed
-
