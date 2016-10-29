@@ -20,3 +20,5 @@ ws "/chat" do |socket|
     SOCKETS.delete socket
   end
 end
+
+Kemal.run
