@@ -1,5 +1,8 @@
 require "kemal"
 
+logging false
+serve_static false
+
 SOCKETS = [] of HTTP::WebSocket
 
 get "/" do

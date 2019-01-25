@@ -4,7 +4,11 @@ version: 0.1.0
 dependencies:
   kemal:
     github: sdogruyol/kemal
-    branch: master
+    version: 0.25.1
+
+targets:
+  kemal-chat:
+    main: src/kemal_chat.cr
 
 authors:
   - Sdogruyol <dogruyolserdar@gmail.com>
